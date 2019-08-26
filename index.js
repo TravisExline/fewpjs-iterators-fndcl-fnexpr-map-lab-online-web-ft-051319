@@ -20,4 +20,4 @@ const titleCasedArray = tutorials.map(tutorial => {
   return titleCasedSentence.join(" ")
 });
 return titleCasedArray
-}	}
+}
